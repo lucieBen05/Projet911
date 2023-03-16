@@ -1,6 +1,6 @@
 ﻿# Projet911
 
-Thématique 
+THEMATIQUE
 
 Contexte:
 Les données proviennent d’Open Baltimore, un site où l’on peut trouver des centaines de jeux de données sur la ville de Baltimore, situés aux États-Unis. Elles représentent les appels d’urgence et de non-urgence au 911 en 2022. Elles sont fournies par le Département de la police de Baltimore et sont collectées à partir des appels d’urgence, qui sont ensuite enregistrés dans le système de gestion des appels du 911. Étant donné le nombre volumineux de lignes dans ces données, nous avons décidé de les filtrer. Nous analyserons les données datant uniquement du mois de décembre et dont les appels ont été considérés comme « hautement prioritaires ».
@@ -21,7 +21,6 @@ Le site du bureau du gouverneur pour la prévention de la criminalité, la jeune
 WIREFRAMES
 
 ![1](https://user-images.githubusercontent.com/115465411/225592429-ca9f9232-a2a8-45d5-919f-9255522db3f9.jpg)
-
 ![2](https://user-images.githubusercontent.com/115465411/225592673-18017f1e-6c7a-4ee7-b146-992ef9d1ebef.jpg)
 ![3](https://user-images.githubusercontent.com/115465411/225592695-99f9671d-227c-41e3-8874-7a08717f4e75.jpg)
 ![4](https://user-images.githubusercontent.com/115465411/225592706-a1808932-5a56-4a89-b886-615cf641b303.jpg)
